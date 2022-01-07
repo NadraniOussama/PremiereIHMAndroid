@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tp2</string>
+    <string name="number">Entrer un nombre</string>
+    <string name="eq">=</string>
+    <string name="plus">Plus</string>
+    <string name="moins">Moins</string>
+    <string name="dev">Devise</string>
+    <string name="multi">Multiplie</string>
+    <string name="raz">Raz</string>
+    <string name="quit">Quit</string>
+    <string name="titre">Premiere calculatrice</string>
+    <string name="output">Resultat</string>
+</resources>
