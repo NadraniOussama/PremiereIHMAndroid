@@ -8,6 +8,7 @@ deux nombres et la possibilité de choisir une opération.
 1. Réaction aux interactions utilisateur.
 
 ---
+![IHM](./pics/IHM.png)
 
   * Construire l’interface graphique (Figure 1), On demande d'écrire le moins de code Java possible. Les chaînes 
 de caractères seront plutôt définies dans le fichier strings.xml. 
